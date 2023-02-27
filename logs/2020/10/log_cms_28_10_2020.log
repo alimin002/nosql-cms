@@ -1,0 +1,20 @@
+201028132905|superadmin|http://localhost/amortrans-cms/login/login|login|{"id_seq":"1","user_group_id":"1","username":"superadmin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin1313@gmail.com","status":"1","user_code":null,"group_name":"superadmin","group_code":null,"first_name":"alimin","last_name":"alimin"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/amortrans-cms\/dashboard"}|127.0.0.1
+
+201028132918|superadmin|http://localhost/amortrans-cms/login/login|login|{"id_seq":"1","user_group_id":"1","username":"superadmin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin1313@gmail.com","status":"1","user_code":null,"group_name":"superadmin","group_code":null,"first_name":"alimin","last_name":"alimin"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/amortrans-cms\/dashboard"}|127.0.0.1
+
+201028132930|superadmin|http://localhost/amortrans-cms/login/login|login|{"id_seq":"1","user_group_id":"1","username":"superadmin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin1313@gmail.com","status":"1","user_code":null,"group_name":"superadmin","group_code":null,"first_name":"alimin","last_name":"alimin"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/amortrans-cms\/dashboard"}|127.0.0.1
+
+201028132957|superadmin|http://localhost/amortrans-cms/Products/delete|DELETE|{"status":-5,"updated_by":"superadmin","updated_on":"2020-10-28 13:29:57"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|127.0.0.1
+
+201028133412|superadmin|http://localhost/amortrans-cms/products/delete|DELETE|{"status":-5,"updated_by":"superadmin","updated_on":"2020-10-28 13:34:12"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+201028133425|superadmin|http://localhost/amortrans-cms/products/delete|DELETE|{"status":-5,"updated_by":"superadmin","updated_on":"2020-10-28 13:34:25"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+201028133613|superadmin|http://localhost/amortrans-cms/products/delete|DELETE|{"status":-5,"updated_by":"superadmin","updated_on":"2020-10-28 13:36:13"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+201028133725|superadmin|http://localhost/amortrans-cms/products/delete|DELETE|{"status":-5,"updated_by":"superadmin","updated_on":"2020-10-28 13:37:25"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+201028192521|superadmin|http://localhost/amortrans-cms/web_contents/delete|DELETE|{"status":-5,"updated_by":"superadmin","updated_on":"2020-10-28 19:25:21"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+201028193146|superadmin|http://localhost/amortrans-cms/web_contents/delete|DELETE|{"status":-5,"updated_by":"superadmin","updated_on":"2020-10-28 19:31:46"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+

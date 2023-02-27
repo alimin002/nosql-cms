@@ -1,0 +1,70 @@
+191029091030|superadmin|http://localhost/ticket_ecopark_admin/login/login|login|{"id_seq":"1","user_group_id":"1","username":"superadmin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin1313@gmil.com","status":"1","user_code":"ADMINISTRATOR","group_name":"Administrator","group_code":"ADMINISTRATOR","first_name":"alimin","last_name":"1"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/ticket_ecopark_admin\/dashboard"}|::1
+
+191029094441|alimin 1|http://localhost/ticket_ecopark_admin/master_merchant/action_add|ADD|{"merchant_code":"B2B8PH5HTD","merchant_name":"marchent 8","description":"m 8","created_by":"alimin 1","created_on":"2019-10-29 09:44:40"}|{"code":200,"header":"Success","message":"Success add data","theme":"alert-styled-left bg-success"}|::1
+
+191029094517|alimin 1|http://localhost/ticket_ecopark_admin/master_user_channel_merchant/action_add|ADD|{"merchant_code":"B2B8PH5HTD","user_channel_code":"D94KAL10CK","description":"m 8 xxx","created_by":"alimin 1","created_on":"2019-10-29 09:45:17"}|{"code":200,"header":"Success","message":"Success add data","theme":"alert-styled-left bg-success"}|::1
+
+191029112227|alimin 1|http://localhost/ticket_ecopark_admin/master_fare/action_add|ADD|{"user_channel_code":"G8LNXRM5CY","booking_channel_code":"B2B","username":"erpin","password":"$2a$12$9bOI4MYJ8b.M1kSwDUKHzOTqntxscSPSlcXB3hOZNy3uH2jaXaPNe","description":"erpin desc","created_by":"alimin 1","created_on":"2019-10-29 11:22:27"}||::1
+
+191029112234|alimin 1|http://localhost/ticket_ecopark_admin/master_fare/action_add|ADD|{"user_channel_code":"8ETMRZKE3B","booking_channel_code":"B2B","username":"erpin","password":"$2a$12$8oRVdWRoGUjRspZUXD3chexwg2TzQDBMF0GTkMxSrJ3dPB\/Qi\/Gpy","description":"erpin desc","created_by":"alimin 1","created_on":"2019-10-29 11:22:34"}||::1
+
+191029131509|alimin 1|http://localhost/ticket_ecopark_admin/booking_channel/action_add|ADD|{"booking_channel_name":"Mobile POS","booking_channel_code":"MOBILEPOS","description":"Mobile POS","status":1,"created_by":"superadmin"}|{"code":200,"header":"Success","message":"Success add data","theme":"alert-styled-left bg-success"}|::1
+
+191029132526|alimin 1|http://localhost/ticket_ecopark_admin/master_user_channel/action_add|ADD|{"user_channel_code":"ZI736YPGZX","booking_channel_code":"B2B","username":"test xxxxx","password":"$2a$12$nCz.2.9TFyTW34lkwlqmjO5P0v8fmdwxFZIWK2s3TenxS9svSp9h6","description":"sgfdsfg","created_by":"alimin 1","created_on":"2019-10-29 13:25:26"}|Success add data|::1
+
+191029132533|alimin 1|http://localhost/ticket_ecopark_admin/ticket_master/delete|DELETE|{"status":-5,"updated_by":"superadmin","updated_on":"2019-10-29 13:25:33"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191029132537|alimin 1|http://localhost/ticket_ecopark_admin/ticket_master/delete|DELETE|{"status":-5,"updated_by":"superadmin","updated_on":"2019-10-29 13:25:37"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191029132542|alimin 1|http://localhost/ticket_ecopark_admin/ticket_master/delete|DELETE|{"status":-5,"updated_by":"superadmin","updated_on":"2019-10-29 13:25:42"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191029132546|alimin 1|http://localhost/ticket_ecopark_admin/ticket_master/delete|DELETE|{"status":-5,"updated_by":"superadmin","updated_on":"2019-10-29 13:25:46"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191029132550|alimin 1|http://localhost/ticket_ecopark_admin/ticket_master/delete|DELETE|{"status":-5,"updated_by":"superadmin","updated_on":"2019-10-29 13:25:49"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191029132554|alimin 1|http://localhost/ticket_ecopark_admin/ticket_master/delete|DELETE|{"status":-5,"updated_by":"superadmin","updated_on":"2019-10-29 13:25:54"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191029132558|alimin 1|http://localhost/ticket_ecopark_admin/ticket_master/delete|DELETE|{"status":-5,"updated_by":"superadmin","updated_on":"2019-10-29 13:25:57"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191029132601|alimin 1|http://localhost/ticket_ecopark_admin/ticket_master/delete|DELETE|{"status":-5,"updated_by":"superadmin","updated_on":"2019-10-29 13:26:01"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191029132700|alimin 1|http://localhost/ticket_ecopark_admin/master_user_channel/action_add|ADD|{"user_channel_code":"G7H9Q09656","booking_channel_code":"WEBRESERVATION","username":"test web reservation","password":"$2a$12$JzfuYVG9u5558e7eKqzfw.EC6PlJaiktpGWsclbJgpxA9yxV66Ytm","description":"asdfasdf","created_by":"alimin 1","created_on":"2019-10-29 13:27:00"}|Success add data|::1
+
+191029132706|alimin 1|http://localhost/ticket_ecopark_admin/ticket_master/delete|DELETE|{"status":-5,"updated_by":"superadmin","updated_on":"2019-10-29 13:27:06"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191029141219|alimin 1|http://localhost/ticket_ecopark_admin/master_user_channel/action_add|ADD|{"user_channel_code":"UC5AELYZM0","booking_channel_code":"MOBILEPOS","username":"Mobile Pos test","password":"$2a$12$3Z5nVZSkQPNbDLo8qtzqeO63OWomgJv\/BQlpmca4.nx1dG76yIbOu","description":"1","created_by":"alimin 1","created_on":"2019-10-29 14:12:19"}|Success add data|::1
+
+191029145006|alimin 1|http://localhost/ticket_ecopark_admin/master_user_pos/action_edit|UPDATE|{"booking_channel_code":"WEBPOS","username":"alimin WEB POS","password":"$2a$12$jWeuP57MSJ20.rPBkw6Nu.Osz9DYG7y5kOEORx5rOTiSW1tP3OppC","description":"Alimin WEB POSxx","updated_by":"alimin 1","updated_on":"2019-10-29 14:50:05"}|{"code":200,"header":"Success","message":"Success edit data","theme":"alert-styled-left bg-success"}|::1
+
+191029161433|alimin 1|http://localhost/ticket_ecopark_admin/master_user_channel/action_add|ADD|{"user_channel_code":"98GGEGBW9L","booking_channel_code":"MOBILERESERVATION","username":"ab","password":"$2a$12$.Nt0tbMzIywSoUuRIiP\/QeyWgAbvAWV6C1GUETO.CaM0x0LoV0h5y","description":"ab","created_by":"alimin 1","created_on":"2019-10-29 16:14:32"}|Success add data|::1
+
+191029161526|alimin 1|http://localhost/ticket_ecopark_admin/master_user_channel/action_add|ADD|{"user_channel_code":"RL1FD6JG3I","booking_channel_code":"B2B","username":"am","password":"$2a$12$6\/BgoePQpSRoN6.fQrRYkOFp\/vA08teClmne.NzHS\/bwHX3J1j4mO","description":"a","created_by":"alimin 1","created_on":"2019-10-29 16:15:26"}|Success add data|::1
+
+191029170449|alimin 1|http://localhost/ticket_ecopark_admin/ticket_master/delete|DELETE|{"status":-5,"updated_by":"superadmin","updated_on":"2019-10-29 17:04:49"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191029170453|alimin 1|http://localhost/ticket_ecopark_admin/ticket_master/delete|DELETE|{"status":-5,"updated_by":"superadmin","updated_on":"2019-10-29 17:04:53"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191029170459|alimin 1|http://localhost/ticket_ecopark_admin/ticket_master/delete|DELETE|{"status":-5,"updated_by":"superadmin","updated_on":"2019-10-29 17:04:59"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191029170509|alimin 1|http://localhost/ticket_ecopark_admin/ticket_master/delete|DELETE|{"status":-5,"updated_by":"superadmin","updated_on":"2019-10-29 17:05:09"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191029170539|alimin 1|http://localhost/ticket_ecopark_admin/master_user_channel/action_add|ADD|{"user_channel_code":"36WY8GIB4D","booking_channel_code":"B2B","username":"abcaa","password":"$2a$12$8EkLU7e\/Ww\/\/sxY0GDbHAeFj6FG3uPaDUoXx5OQ8P231SJWyaqhjq","description":"testing","created_by":"alimin 1","created_on":"2019-10-29 17:05:39"}|Success add data|::1
+
+191029172017|alimin 1|http://localhost/ticket_ecopark_admin/master_user_channel/action_edit|UPDATE|{"user_channel_code":"S7D8TQ644H","booking_channel_code":"B2B","username":"abcaaxx","password":"$2a$12$zeY2Z4VeKZQ3KN1DOZeWJuAN91aoRLcs4.swUtZNmUHRxrAfd0kUu","description":"testingxx","created_by":"alimin 1","created_on":"2019-10-29 17:20:17"}|{"code":200,"header":"Success","message":"Success edit data","theme":"alert-styled-left bg-success"}|::1
+
+191029173006|alimin 1|http://localhost/ticket_ecopark_admin/master_user_channel/action_update|ADD|{"booking_channel_code":"B2B","username":"abcaaxx","password":"$2a$12$rgJG6zHZgRUFGzeLUn2c7ur6JX1DhilBL8hyznqf6\/7uOiJ3\/biMC","description":"testingxx","updated_by":"alimin 1","updated_on":"2019-10-29 17:30:05"}|Success add data|::1
+
+191029173006|alimin 1|http://localhost/ticket_ecopark_admin/master_user_channel/action_edit|UPDATE|{"user_channel_code":"SBB51MD5L3","booking_channel_code":"B2B","username":"abcaaxx","password":"$2a$12$4mjxbj55PfFXdOEAPkONvuJuHIgIKnIUOddKLq1MttoaXqkwGNJOq","description":"testingxx","created_by":"alimin 1","created_on":"2019-10-29 17:30:05"}|{"code":200,"header":"Success","message":"Success edit data","theme":"alert-styled-left bg-success"}|::1
+
+191029173014|alimin 1|http://localhost/ticket_ecopark_admin/master_user_channel/action_update|ADD|{"booking_channel_code":"B2B","username":"abcaaxx","password":"$2a$12$WWHJU\/hM7cWaJAYHSYW3COOI8AXxw6YNRhxSW26CWSS2SwZppYA.a","description":"testingxx","updated_by":"alimin 1","updated_on":"2019-10-29 17:30:14"}|Success add data|::1
+
+191029173014|alimin 1|http://localhost/ticket_ecopark_admin/master_user_channel/action_edit|UPDATE|{"user_channel_code":"WW5HXA6QUE","booking_channel_code":"B2B","username":"abcaaxx","password":"$2a$12$GgS52ZVcdW6XVWUUWTVvYu0ZTDVrWKry3QQHhr1mmT9GUIYsZIu9u","description":"testingxx","created_by":"alimin 1","created_on":"2019-10-29 17:30:14"}|{"code":200,"header":"Success","message":"Success edit data","theme":"alert-styled-left bg-success"}|::1
+
+191029173424|alimin 1|http://localhost/ticket_ecopark_admin/ticket_master/delete|DELETE|{"status":-5,"updated_by":"superadmin","updated_on":"2019-10-29 17:34:24"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191029173443|alimin 1|http://localhost/ticket_ecopark_admin/master_user_channel/action_add|ADD|{"user_channel_code":"5750JWFB61","booking_channel_code":"B2B","username":"gg","password":"$2a$12$.XhNEZ5R\/Oyc4n7FTL8\/fuBmc07Q8P0xgCN22OiPiydGX47jpZGHq","description":"gg","created_by":"alimin 1","created_on":"2019-10-29 17:34:43"}|Success add data|::1
+
+191029173500|alimin 1|http://localhost/ticket_ecopark_admin/master_user_channel/action_update|ADD|{"booking_channel_code":"B2B","username":"gg","password":"$2a$12$IpzHLCO\/lNX9cRu1O.7leeDsMgX7JJUNnoKA\/HSvn4zi6iwuNAnCC","description":"gg","updated_by":"alimin 1","updated_on":"2019-10-29 17:35:00"}|Success add data|::1
+
+191029173500|alimin 1|http://localhost/ticket_ecopark_admin/master_user_channel/action_edit|UPDATE|{"user_channel_code":"4ZQ9A8ZIPZ","booking_channel_code":"B2B","username":"gg","password":"$2a$12$\/y0ryf8.o22lQDFaAG6uvOoJ\/DIJ0Zvray1YzcTaOGVzQ2SuuHKpm","description":"gg","created_by":"alimin 1","created_on":"2019-10-29 17:34:59"}|{"code":200,"header":"Success","message":"Success edit data","theme":"alert-styled-left bg-success"}|::1
+

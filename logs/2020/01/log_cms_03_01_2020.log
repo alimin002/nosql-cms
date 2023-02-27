@@ -1,0 +1,2 @@
+200103093946|superadmin|http://localhost/core_systemv2/login/login|login|{"id_seq":"1","user_group_id":"1","username":"superadmin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin.nutech@gmail.com","status":"1","user_code":null,"group_name":"superadmin","group_code":null,"first_name":"Ali","last_name":"min"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/core_systemv2\/dashboard"}|127.0.0.1
+

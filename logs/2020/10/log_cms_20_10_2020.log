@@ -1,0 +1,8 @@
+201020191747|superadmin|http://localhost/mandiritrans_admin/login/login|login|{"id_seq":"1","user_group_id":"1","username":"superadmin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin1313@gmail.com","status":"1","user_code":null,"group_name":"superadmin","group_code":null,"first_name":"alimin","last_name":"alimin"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/mandiritrans_admin\/dashboard"}|::1
+
+201020192129|xzCZX|http://localhost/mandiritrans_admin/login/login|login|false|{"code":101,"header":"Error!","message":"User can't found","theme":"alert-styled-left bg-danger"}|::1
+
+201020192204|superadmin|http://localhost/mandiritrans_admin/login/login|login|{"id_seq":"1","user_group_id":"1","username":"superadmin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin1313@gmail.com","status":"1","user_code":null,"group_name":"superadmin","group_code":null,"first_name":"alimin","last_name":"alimin"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/mandiritrans_admin\/dashboard"}|::1
+
+201020192342|superadmin|http://localhost/mandiritrans_admin/login/login|login|{"id_seq":"1","user_group_id":"1","username":"superadmin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin1313@gmail.com","status":"1","user_code":null,"group_name":"superadmin","group_code":null,"first_name":"alimin","last_name":"alimin"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/mandiritrans_admin\/dashboard"}|::1
+

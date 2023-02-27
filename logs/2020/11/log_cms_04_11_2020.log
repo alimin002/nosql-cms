@@ -1,0 +1,2 @@
+201104100321|superadmin|http://localhost/amortrans-cms/login/login|login|{"id_seq":"1","user_group_id":"1","username":"superadmin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin1313@gmail.com","status":"1","user_code":null,"group_name":"superadmin","group_code":null,"first_name":"alimin","last_name":"alimin"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/amortrans-cms\/dashboard"}|127.0.0.1
+

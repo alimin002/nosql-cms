@@ -1,0 +1,16 @@
+{
+     "data":[
+                {
+                    "id_seq":"1",
+                    "prouct_name":"Jambu Kristal Putih",
+                    "Varietas":"BELUM TERIDENTIFIKASI",
+                    "photo":"url image",
+                    "age":"",
+                    "price":"700000",
+                    "description":"test description",
+                    "stock":"3"
+                }
+               
+           ]
+
+}

@@ -1,0 +1,36 @@
+230222143708|Alimin 001|http://localhost/nosql_cms/po/bus/action_add|ADD|[]|{"code":101,"header":"Error","message":"Failed add data","theme":"alert-styled-left bg-danger"}|127.0.0.1
+
+230222144133|Alimin 001|http://localhost/nosql_cms/po/bus/action_add|ADD|[]|{"code":101,"header":"Error","message":"Failed add data","theme":"alert-styled-left bg-danger"}|127.0.0.1
+
+230222144347|Alimin 001|http://localhost/nosql_cms/po/bus/action_add|ADD|[]|{"code":101,"header":"Error","message":"Failed add data","theme":"alert-styled-left bg-danger"}|127.0.0.1
+
+230222152329|Alimin 001|http://localhost/nosql_cms/po/bus/action_add|ADD|[]|{"code":101,"header":"Error","message":"Failed add data","theme":"alert-styled-left bg-danger"}|127.0.0.1
+
+230222152520|Alimin 001|http://localhost/nosql_cms/po/bus/action_add|ADD|[]|{"code":101,"header":"Error","message":"Failed add data","theme":"alert-styled-left bg-danger"}|127.0.0.1
+
+230222155655|Alimin 001|http://localhost/nosql_cms/po/bus/action_add|ADD|[]|{"code":200,"header":"Success","message":"Success add data","theme":"alert-styled-left bg-success"}|127.0.0.1
+
+230222160116|Alimin 001|http://localhost/nosql_cms/po/bus/action_add|ADD|[]|{"code":200,"header":"Success","message":"Success add data","theme":"alert-styled-left bg-success"}|127.0.0.1
+
+230222160142|Alimin 001|http://localhost/nosql_cms/po/bus/action_add|ADD|[]|{"code":101,"header":"Error","message":"Plate number already exist","theme":"alert-styled-left bg-danger"}|127.0.0.1
+
+230222160146|Alimin 001|http://localhost/nosql_cms/po/bus/action_add|ADD|[]|{"code":101,"header":"Error","message":"Plate number already exist","theme":"alert-styled-left bg-danger"}|127.0.0.1
+
+230222160855|Alimin 001|http://localhost/nosql_cms/po/bus/action_add|ADD|[]|{"code":200,"header":"Success","message":"Success add data","theme":"alert-styled-left bg-success"}|127.0.0.1
+
+230222174702|Alimin 001|http://localhost/nosql_cms/po/bus/action_add|ADD|[]|{"code":101,"header":"Error","message":"Username already exist","theme":"alert-styled-left bg-danger"}|127.0.0.1
+
+230222175732|Alimin 001|http://localhost/nosql_cms/po/bus/action_add|ADD|[]|{"code":101,"header":"Error","message":"Username already exist","theme":"alert-styled-left bg-danger"}|127.0.0.1
+
+230222175825|Alimin 001|http://localhost/nosql_cms/po/bus/action_add|ADD|[]|{"code":101,"header":"Error","message":"Please input the field!","theme":"alert-styled-left bg-danger"}|127.0.0.1
+
+230222175839|Alimin 001|http://localhost/nosql_cms/po/bus/action_add|ADD|[]|{"code":101,"header":"Error","message":"Please input the field!","theme":"alert-styled-left bg-danger"}|127.0.0.1
+
+230222175920|Alimin 001|http://localhost/nosql_cms/po/bus/action_add|ADD|[]|{"code":200,"header":"Success","message":"Success Update data","theme":"alert-styled-left bg-success"}|127.0.0.1
+
+230222175940|Alimin 001|http://localhost/nosql_cms/po/bus/action_add|ADD|[]|{"code":200,"header":"Success","message":"Success Update data","theme":"alert-styled-left bg-success"}|127.0.0.1
+
+230222180745|Alimin 001|http://localhost/nosql_cms/po/bus/action_add|ADD|[]|{"code":101,"header":"Error","message":"Username already exist","theme":"alert-styled-left bg-danger"}|127.0.0.1
+
+230222180824|Alimin 001|http://localhost/nosql_cms/po/bus/action_add|ADD|[]|{"code":101,"header":"Error","message":"Username already exist","theme":"alert-styled-left bg-danger"}|127.0.0.1
+

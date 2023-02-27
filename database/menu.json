@@ -1,0 +1,7 @@
+[
+    [
+        {"id_seq":1,"menu_id":1,"parent_id":1,"name":"Manajemen","slug":"","icon":"fa fa-folder","menu_order":"1","action":[]},
+        {"id_seq":2,"menu_id":2,"parent_id":1,"name":"User","slug":"users","icon":"","menu_order":"2","action":["add","edit","delete"]}],
+        [{"id_seq":3,"menu_id":3,"parent_id":1,"name":"Products","slug":"products","icon":"fa fa-file","menu_order":"1","action":[]}
+    ]
+]

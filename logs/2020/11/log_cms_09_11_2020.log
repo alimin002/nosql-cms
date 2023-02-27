@@ -1,0 +1,18 @@
+201109105444|superadmin|http://localhost/amortrans-cms/login/login|login|{"id_seq":"1","user_group_id":"1","username":"superadmin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin1313@gmail.com","status":"1","user_code":null,"group_name":"superadmin","group_code":null,"first_name":"alimin","last_name":"alimin"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/amortrans-cms\/dashboard"}|::1
+
+201109105618|alimin alimin|http://localhost/amortrans-cms/configuration/user_group/action_add|ADD|{"group_name":"Developer","group_code":"GP-2","status":1,"created_by":"1"}|{"code":200,"header":"Success","message":"Success add data","theme":"alert-styled-left bg-success"}|::1
+
+201109105628|alimin alimin|http://localhost/amortrans-cms/configuration/user_group/update|UPDATE|{"group_name":"developer","status":1,"updated_by":"1","updated_on":"2020-11-09 10:56:28"}|{"code":200,"header":"Success","message":"Success update data","theme":"alert-styled-left bg-success"}|::1
+
+201109110133|alimin1313@gmail.com|http://localhost/amortrans-cms/login/login|login|false|{"code":101,"header":"Error!","message":"User can't found","theme":"alert-styled-left bg-danger"}|::1
+
+201109110140|alimin|http://localhost/amortrans-cms/login/login|login|{"id_seq":"3","user_group_id":"10","username":"alimin","password":"$2a$12$QytwUiAph9XLqJFc\/jjESezFrB7WE6WUYyh1e0rBi.rPQXr7TZCxa","email":"alimin1313@gmail.com","status":"1","user_code":"NG8GMTA5DV","group_name":"developer","group_code":"GP-2","first_name":"Ali","last_name":"min"}|{"code":101,"header":"Error!","message":"Wrong password","theme":"alert-styled-left bg-danger"}|::1
+
+201109110147|alimin|http://localhost/amortrans-cms/login/login|login|{"id_seq":"3","user_group_id":"10","username":"alimin","password":"$2a$12$QytwUiAph9XLqJFc\/jjESezFrB7WE6WUYyh1e0rBi.rPQXr7TZCxa","email":"alimin1313@gmail.com","status":"1","user_code":"NG8GMTA5DV","group_name":"developer","group_code":"GP-2","first_name":"Ali","last_name":"min"}|{"code":101,"header":"Error!","message":"Wrong password","theme":"alert-styled-left bg-danger"}|::1
+
+201109153320|alimin|http://192.168.43.7/amortrans-cms/login/login|login|{"id_seq":"3","user_group_id":"10","username":"alimin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin1313@gmail.com","status":"1","user_code":"NG8GMTA5DV","group_name":"developer","group_code":"GP-2","first_name":"Ali","last_name":"min"}|{"code":0,"message":"Success","data":"http:\/\/192.168.43.7\/amortrans-cms\/dashboard"}|192.168.43.1
+
+201109161812|alimin|http://localhost/amortrans-cms/login/login|login|{"id_seq":"3","user_group_id":"10","username":"alimin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin1313@gmail.com","status":"1","user_code":"NG8GMTA5DV","group_name":"developer","group_code":"GP-2","first_name":"Ali","last_name":"min"}|{"code":101,"header":"Error!","message":"Wrong password","theme":"alert-styled-left bg-danger"}|::1
+
+201109161816|alimin|http://localhost/amortrans-cms/login/login|login|{"id_seq":"3","user_group_id":"10","username":"alimin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin1313@gmail.com","status":"1","user_code":"NG8GMTA5DV","group_name":"developer","group_code":"GP-2","first_name":"Ali","last_name":"min"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/amortrans-cms\/dashboard"}|::1
+

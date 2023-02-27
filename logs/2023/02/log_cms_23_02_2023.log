@@ -1,0 +1,8 @@
+230223121115|Alimin -$$$|http://localhost/nosql_cms/po/bus/action_add|ADD|[]|{"code":200,"header":"Success","message":"Success add data","theme":"alert-styled-left bg-success"}|127.0.0.1
+
+230223134153|Alimin -$$$|http://localhost/nosql_cms/po/bus/action_add|ADD|[]|{"code":200,"header":"Success","message":"Success Update data","theme":"alert-styled-left bg-success"}|127.0.0.1
+
+230223153956|Alimin -$$$|http://localhost/nosql_cms/po/bus/action_add|ADD|[]|{"code":101,"header":"Error","message":"Username already exist","theme":"alert-styled-left bg-danger"}|127.0.0.1
+
+230223154043|Alimin -$$$|http://localhost/nosql_cms/po/bus/action_add|ADD|[]|{"code":200,"header":"Success","message":"Success add data","theme":"alert-styled-left bg-success"}|127.0.0.1
+

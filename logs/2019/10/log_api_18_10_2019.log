@@ -1,0 +1,46 @@
+191018090335|superadmin|http://localhost/ticket_ecopark_admin/login/login|login|{"id_seq":"1","user_group_id":"1","username":"superadmin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin1313@gmil.com","status":"1","user_code":"ADMINISTRATOR","group_name":"Administrator","group_code":"ADMINISTRATOR","first_name":"alimin","last_name":"1"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/ticket_ecopark_admin\/dashboard"}|::1
+
+191018091339|alimin 1|http://localhost/ticket_ecopark_admin/ticket_category/action_add|ADD|{"operator_code":"P2O1TSK9U4","category_type_code":"MULTITICKET","category_code":"MCRMZQUCWH","category_name":"abc aa","description":"abc aa","created_by":"alimin 1","created_on":"2019-10-18 09:13:39"}|{"code":200,"header":"Success","message":"Success add data","theme":"alert-styled-left bg-success"}|::1
+
+191018092236|alimin 1|http://localhost/ticket_ecopark_admin/configuration/menu_action/action_add|ADD|{"name":"aa","status":1,"created_by":"superadmin"}|{"code":200,"header":"Error","message":"Success add data","theme":"alert-styled-left bg-success"}|::1
+
+191018092344|alimin 1|http://localhost/ticket_ecopark_admin/configuration/menu_action/action_update|UPDATE|{"status":-5,"updated_by":"superadmin","updated_on":"2019-10-18 09:23:44"}|{"code":200,"header":"Error","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191018092428|alimin 1|http://localhost/ticket_ecopark_admin/configuration/menu_action/action_add|ADD|{"name":"abc","status":1,"created_by":"superadmin"}|{"code":200,"header":"Error","message":"Success add data bb","theme":"alert-styled-left bg-success"}|::1
+
+191018092521|alimin 1|http://localhost/ticket_ecopark_admin/configuration/menu_action/action_add|ADD|{"name":"asdasd","status":1,"created_by":"superadmin"}|{"code":200,"header":"Success","message":"Success add data","theme":"alert-styled-left bg-success"}|::1
+
+191018093520|alimin 1|http://localhost/ticket_ecopark_admin/ticket_category/action_edit|UPDATE|{"operator_code":"PHKW9G3RAH","category_name":"abc aa","category_type_code":"test kode","description":"abc aa","updated_by":"alimin 1","updated_on":"2019-10-18 09:35:20"}|{"code":200,"header":"Success","message":"Success edit data","theme":"alert-styled-left bg-success"}|::1
+
+191018093532|alimin 1|http://localhost/ticket_ecopark_admin/ticket_category/action_edit|UPDATE|{"operator_code":"PHKW9G3RAH","category_name":"abc aa","category_type_code":"Type Example","description":"abc aa","updated_by":"alimin 1","updated_on":"2019-10-18 09:35:32"}|{"code":200,"header":"Success","message":"Success edit data","theme":"alert-styled-left bg-success"}|::1
+
+191018094146|alimin 1|http://localhost/ticket_ecopark_admin/master_fee_period/action_add|ADD|{"additional_fee_period_code":"Code Period Example","additional_fee_period_name":"asdfadsf","description":"<p>sdgsdf<\/p>","created_by":"alimin 1","created_on":"2019-10-18 09:41:46"}|{"code":101,"header":"Error","message":"Additinal Fee Period Kode yang anda input sudah digunakan! harap ganti yang lain","theme":"alert-styled-left bg-danger"}|::1
+
+191018100003|superadmin|http://localhost/ticket_ecopark_admin/login/login|login|{"id_seq":"1","user_group_id":"1","username":"superadmin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin1313@gmil.com","status":"1","user_code":"ADMINISTRATOR","group_name":"Administrator","group_code":"ADMINISTRATOR","first_name":"alimin","last_name":"1"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/ticket_ecopark_admin\/dashboard"}|::1
+
+191018100224|alimin|http://localhost/ticket_ecopark_admin/login/login|login|{"id_seq":"14","user_group_id":"3","username":"Alimin","password":"$2a$12$9dokEYSQ4bSvtyDzy38.D.7O2b9RvZdzgFKnpRMXkd132H0eWv3oa","email":"alimin.nutech@gmail.com","status":"1","user_code":"HC4BFPLAB5","group_name":"Operator","group_code":"OPERATOR","first_name":"alimin","last_name":"-"}|{"code":101,"header":"Error!","message":"Wrong password","theme":"alert-styled-left bg-danger"}|::1
+
+191018100237|alimin|http://localhost/ticket_ecopark_admin/login/login|login|{"id_seq":"14","user_group_id":"3","username":"Alimin","password":"$2a$12$9dokEYSQ4bSvtyDzy38.D.7O2b9RvZdzgFKnpRMXkd132H0eWv3oa","email":"alimin.nutech@gmail.com","status":"1","user_code":"HC4BFPLAB5","group_name":"Operator","group_code":"OPERATOR","first_name":"alimin","last_name":"-"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/ticket_ecopark_admin\/dashboard"}|::1
+
+191018100344|ojan|http://localhost/ticket_ecopark_admin/login/login|login|{"id_seq":"16","user_group_id":"3","username":"ojan","password":"$2a$12$o.phwYLgCkoVk5kkDmSqB..hIvlMhq9FFS44CpJJY4y8Y4ceMQAzq","email":"ojan@gmail.com","status":"1","user_code":"60M2V04DCQ","group_name":"Operator","group_code":"OPERATOR","first_name":"ojan","last_name":"1"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/ticket_ecopark_admin\/dashboard"}|::1
+
+191018100538|dewi|http://localhost/ticket_ecopark_admin/login/login|login|{"id_seq":"15","user_group_id":"2","username":"dewi","password":"$2a$12$p7F1mELdGUvJlihusf8YROtGSx6ikp2tr3aJBKFlgpKlF2kA7gl.q","email":"dewi@gmail.com","status":"1","user_code":"X0L4FQI9TH","group_name":"Perum","group_code":"PERUM","first_name":"dewi","last_name":"11"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/ticket_ecopark_admin\/dashboard"}|::1
+
+191018101054|ojan 1|http://localhost/ticket_ecopark_admin/master_fare/action_add|ADD|{"operator_code":"P2GKXAT60P","fare_code":"WAD7M1MWI","price":"4000","fare_name":"testing abc","description":"<p>abc aaa<\/p>","created_by":"ojan 1","created_on":"2019-10-18 10:10:54"}|{"code":200,"header":"Success","message":"Success add data","theme":"alert-styled-left bg-success"}|::1
+
+191018101144|ojan 1|http://localhost/ticket_ecopark_admin/ticket_master/delete|DELETE|{"status":-5,"updated_by":"ojan","updated_on":"2019-10-18 10:11:44"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191018102106|superadmin|http://localhost/ticket_ecopark_admin/login/login|login|{"id_seq":"1","user_group_id":"1","username":"superadmin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin1313@gmil.com","status":"1","user_code":"ADMINISTRATOR","group_name":"Administrator","group_code":"ADMINISTRATOR","first_name":"alimin","last_name":"1"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/ticket_ecopark_admin\/dashboard"}|::1
+
+191018113427|alimin 1|http://localhost/ticket_ecopark_admin/master_promo_type/action_add|ADD|{"promo_type_code":"NOMINAL","promo_type_name":"aaa","description":"<p>aaa<\/p>","created_by":"alimin 1","created_on":"2019-10-18 11:34:27"}|{"code":101,"header":"Error","message":"Promo Type Code yang anda input sudah digunakan! harap ganti yang lain","theme":"alert-styled-left bg-danger"}|::1
+
+191018113432|alimin 1|http://localhost/ticket_ecopark_admin/master_promo_type/action_add|ADD|{"promo_type_code":"NOMINALxx","promo_type_name":"aaa","description":"<p>aaa<\/p>","created_by":"alimin 1","created_on":"2019-10-18 11:34:32"}|{"code":200,"header":"Success","message":"Success add data","theme":"alert-styled-left bg-success"}|::1
+
+191018113440|alimin 1|http://localhost/ticket_ecopark_admin/master_promo_type/delete|DELETE|{"status":-5,"updated_by":"superadmin","updated_on":"2019-10-18 11:34:40"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191018153733|superadmin|http://localhost/ticket_ecopark_admin/login/login|login|{"id_seq":"1","user_group_id":"1","username":"superadmin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin1313@gmil.com","status":"1","user_code":"ADMINISTRATOR","group_name":"Administrator","group_code":"ADMINISTRATOR","first_name":"alimin","last_name":"1"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/ticket_ecopark_admin\/dashboard"}|::1
+
+191018155508|dewi 11|http://localhost/ticket_ecopark_admin/master_fare/action_edit|UPDATE|{"fare_name":"Tarif WNI","description":"<p>Tarif pengunjung WNI<\/p>","updated_by":"dewi 11","updated_on":"2019-10-18 15:55:08"}|{"code":200,"header":"Success","message":"Success edit data","theme":"alert-styled-left bg-success"}|::1
+
+191018155554|dewi 11|http://localhost/ticket_ecopark_admin/master_fare/action_edit|UPDATE|{"fare_name":"tarif WNA","description":"<p>tarif pengunjung WNA<\/p>","updated_by":"dewi 11","updated_on":"2019-10-18 15:55:54"}|{"code":200,"header":"Success","message":"Success edit data","theme":"alert-styled-left bg-success"}|::1
+

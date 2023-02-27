@@ -1,0 +1,11 @@
+system requirement
+1.postgree version
+PostgreSQL 11.5, compiled by Visual C++ build 1914, 64-bit
+2.PHP version 
+PHP 5.6.3 portable
+3.codeigniter
+CI 3.1.9
+
+4.javascript plugin
+
+a. https://sweetalert2.github.io/#download

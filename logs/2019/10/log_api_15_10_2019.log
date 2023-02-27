@@ -1,0 +1,114 @@
+191015011933|superadmin|http://localhost/ticket_ecopark_admin/login/login|login|{"id_seq":"1","user_group_id":"1","username":"superadmin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin1313@gmil.com","status":"1","user_code":"ADMINISTRATOR","group_name":"Administrator","group_code":"ADMINISTRATOR","first_name":"alimin","last_name":"1"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/ticket_ecopark_admin\/dashboard"}|::1
+
+191015012232|alimin 1|http://localhost/ticket_ecopark_admin/operator/action_add|ADD|{"operator_name":"operator 1 perum dua","perum_code":"P2B4NB82F4","operator_code":"P2O1TSK9U4","region_code":"BANDUNG","description":"<p>test operator 2 perum 2<\/p>","icon":"P2O1TSK9U4.jpg","status":1,"created_by":"superadmin"}|{"code":200,"header":"Success","message":"Success add data","theme":"alert-styled-left bg-success"}|::1
+
+191015012823|Alimin|http://localhost/ticket_ecopark_admin/login/login|login|{"id_seq":"14","user_group_id":"3","username":"Alimin","password":"$2a$12$9dokEYSQ4bSvtyDzy38.D.7O2b9RvZdzgFKnpRMXkd132H0eWv3oa","email":"alimin.nutech@gmail.com","status":"1","user_code":"HC4BFPLAB5","group_name":"Operator","group_code":"OPERATOR","first_name":"alimin","last_name":"-"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/ticket_ecopark_admin\/profile"}|::1
+
+191015014008|alimin 1|http://localhost/ticket_ecopark_admin/master_ticket/action_add|ADD|{"operator_code":"P2O1TSK9U4","master_ticket_code":"P2O1TSK9U4HM8EJH","master_ticket_name":"ticket entri anak","ticket_type_code":"QUOTA","category_code":"KEITUALV4A","quota_value":"60000","start_operating_hour":"11:45","end_operating_hour":"12:45","description":"test ticket entri anak","created_by":"alimin 1","created_on":"2019-10-15 01:40:07"}|{"code":200,"header":"Success","message":"Success add data","theme":"alert-styled-left bg-success"}|::1
+
+191015014553|alimin -|http://localhost/ticket_ecopark_admin/master_ticket/action_add|ADD|{"operator_code":"P2O1TSK9U4","master_ticket_code":"P2O1TSK9U4EGCV1Q","master_ticket_name":"ticket entri dewasa","ticket_type_code":"QUOTA","category_code":"KEITUALV4A","quota_value":"80000","start_operating_hour":"11:45","end_operating_hour":"12:45","description":"tiket dewasa","created_by":"alimin -","created_on":"2019-10-15 01:45:53"}|{"code":200,"header":"Success","message":"Success add data","theme":"alert-styled-left bg-success"}|::1
+
+191015031604|Alimin|http://localhost/ticket_ecopark_admin/login/login|login|{"id_seq":"14","user_group_id":"3","username":"Alimin","password":"$2a$12$9dokEYSQ4bSvtyDzy38.D.7O2b9RvZdzgFKnpRMXkd132H0eWv3oa","email":"alimin.nutech@gmail.com","status":"1","user_code":"HC4BFPLAB5","group_name":"Operator","group_code":"OPERATOR","first_name":"alimin","last_name":"-"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/ticket_ecopark_admin\/profile"}|::1
+
+191015042103|alimin -|http://localhost/ticket_ecopark_admin/master_ticket/action_add|ADD|{"operator_code":"P2O1TSK9U4","master_ticket_code":"P2O1axYIJL","master_ticket_name":"Ticket parkir sepeda motor","ticket_type_code":"QUOTA","category_code":"L39AL39AL3","quota_value":"4000","start_operating_hour":"14:30","end_operating_hour":"14:30","description":"test","created_by":"alimin -","created_on":"2019-10-15 04:21:03"}|{"code":200,"header":"Success","message":"Success add data","theme":"alert-styled-left bg-success"}|::1
+
+191015043932|alimin -|http://localhost/ticket_ecopark_admin/master_ticket/action_add|ADD|{"operator_code":"P2O1TSK9U4","master_ticket_code":"P2O1ghN3AU","master_ticket_name":"abc xxx","ticket_type_code":"NONQUOTA","category_code":"","quota_value":"5000","start_operating_hour":"14:30","end_operating_hour":"21:30","description":"","created_by":"alimin -","created_on":"2019-10-15 04:39:32"}|{"code":101,"header":"Error","message":"Please input the field!","theme":"alert-styled-left bg-danger"}|::1
+
+191015044031|alimin -|http://localhost/ticket_ecopark_admin/master_ticket/action_add|ADD|{"operator_code":"P2O1TSK9U4","master_ticket_code":"P2O1ghN3AU","master_ticket_name":"abc xxx","ticket_type_code":"NONQUOTA","category_code":"","quota_value":"5000","start_operating_hour":"14:30","end_operating_hour":"21:30","description":"","created_by":"alimin -","created_on":"2019-10-15 04:40:31"}|{"code":101,"header":"Error","message":"Please input the field!<br><p>The Category field is required.<\/p>\n<p>The Description field is required.<\/p>\n","theme":"alert-styled-left bg-danger"}|::1
+
+191015044529|alimin -|http://localhost/ticket_ecopark_admin/master_ticket/action_add|ADD|{"operator_code":"P2O1TSK9U4","master_ticket_code":"P2O1aaCLVT","master_ticket_name":"abc","ticket_type_code":"QUOTA","category_code":"KEITUALV4A","quota_value":"","start_operating_hour":"14:45","end_operating_hour":"16:45","description":"","created_by":"alimin -","created_on":"2019-10-15 04:45:29"}|{"code":101,"header":"Error","message":"Please input the field!<br><p>The Quota Value field is required.<\/p>\n<p>The Description field is required.<\/p>\n","theme":"alert-styled-left bg-danger"}|::1
+
+191015044543|alimin -|http://localhost/ticket_ecopark_admin/master_ticket/action_add|ADD|{"operator_code":"P2O1TSK9U4","master_ticket_code":"P2O1aaCLVT","master_ticket_name":"abc","ticket_type_code":"NONQUOTA","category_code":"KEITUALV4A","quota_value":"","start_operating_hour":"14:45","end_operating_hour":"16:45","description":"","created_by":"alimin -","created_on":"2019-10-15 04:45:43"}|{"code":101,"header":"Error","message":"Please input the field!<br><p>The Description field is required.<\/p>\n","theme":"alert-styled-left bg-danger"}|::1
+
+191015050632|alimin -|http://localhost/ticket_ecopark_admin/ticket_category/action_add|ADD|{"operator_code":"P2O1TSK9U4","category_type_code":"A5Q3ZRB9S1","category_code":"","category_name":"category 1","description":"desc category 1","created_by":"alimin -","created_on":"2019-10-15 05:06:31"}|{"code":200,"header":"Success","message":"Success add data","theme":"alert-styled-left bg-success"}|::1
+
+191015050956|alimin -|http://localhost/ticket_ecopark_admin/ticket_category/action_add|ADD|{"operator_code":"P2O1TSK9U4","category_type_code":"MULTITICKET","category_code":"J282JUSXCF","category_name":"xxx","description":"faf","created_by":"alimin -","created_on":"2019-10-15 05:09:56"}|{"code":200,"header":"Success","message":"Success add data","theme":"alert-styled-left bg-success"}|::1
+
+191015051004|alimin -|http://localhost/ticket_ecopark_admin/po/bus/delete|DELETE|{"status":-5,"updated_by":"Alimin","updated_on":"2019-10-15 05:10:04"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191015061851|superadmin|http://localhost/ticket_ecopark_admin/login/login|login|{"id_seq":"1","user_group_id":"1","username":"superadmin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin1313@gmil.com","status":"1","user_code":"ADMINISTRATOR","group_name":"Administrator","group_code":"ADMINISTRATOR","first_name":"alimin","last_name":"1"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/ticket_ecopark_admin\/dashboard"}|::1
+
+191015073011|alimin 1|http://localhost/ticket_ecopark_admin/operator/action_add|ADD|{"operator_name":"operator 2 perum 2","perum_code":"P2B4NB82F4","operator_code":"P2GKXAT60P","region_code":"BANDUNG","description":"<p>4y45y<\/p>","icon":"P2GKXAT60P.jpg","status":1,"created_by":"superadmin"}|{"code":200,"header":"Success","message":"Success add data","theme":"alert-styled-left bg-success"}|::1
+
+191015073301|alimin 1|http://localhost/ticket_ecopark_admin/operator/action_update|UPDATE|{"operator_name":"operator 2 perum dua","description":"<p>4y45y<\/p>\r\n","icon":"P2GKXAT60P.jpg","updated_by":"superadmin","updated_on":"2019-10-15 07:33:01"}|{"code":200,"header":"Success","message":"Success edit data","theme":"alert-styled-left bg-success"}|::1
+
+191015094650|superadmin|http://localhost/ticket_ecopark_admin/login/login|login|{"id_seq":"1","user_group_id":"1","username":"superadmin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin1313@gmil.com","status":"1","user_code":"ADMINISTRATOR","group_name":"Administrator","group_code":"ADMINISTRATOR","first_name":"alimin","last_name":"1"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/ticket_ecopark_admin\/dashboard"}|::1
+
+191015095545|dewi|http://localhost/ticket_ecopark_admin/login/login|login|{"id_seq":"15","user_group_id":"2","username":"dewi","password":"$2a$12$p7F1mELdGUvJlihusf8YROtGSx6ikp2tr3aJBKFlgpKlF2kA7gl.q","email":"dewi@gmail.com","status":"1","user_code":"X0L4FQI9TH","group_name":"Perum","group_code":"PERUM","first_name":"dewi","last_name":"11"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/ticket_ecopark_admin\/profile"}|::1
+
+191015103038|superadmin|http://localhost/ticket_ecopark_admin/login/login|login|{"id_seq":"1","user_group_id":"1","username":"superadmin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin1313@gmil.com","status":"1","user_code":"ADMINISTRATOR","group_name":"Administrator","group_code":"ADMINISTRATOR","first_name":"alimin","last_name":"1"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/ticket_ecopark_admin\/dashboard"}|::1
+
+191015103406|ojan|http://localhost/ticket_ecopark_admin/login/login|login|{"id_seq":"16","user_group_id":"3","username":"ojan","password":"$2a$12$o.phwYLgCkoVk5kkDmSqB..hIvlMhq9FFS44CpJJY4y8Y4ceMQAzq","email":"ojan@gmail.com","status":"1","user_code":"60M2V04DCQ","group_name":"Operator","group_code":"OPERATOR","first_name":"ojan","last_name":"1"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/ticket_ecopark_admin\/profile"}|::1
+
+191015103648|ojan 1|http://localhost/ticket_ecopark_admin/master_ticket/action_add|ADD|{"operator_code":"P2GKXAT60P","master_ticket_code":"P2GKabB0X2","master_ticket_name":"ticket entri anak","ticket_type_code":"QUOTA","category_code":"KEITUALV4A","quota_value":"50000","start_operating_hour":"20:45","end_operating_hour":"21:45","description":"test description","created_by":"ojan 1","created_on":"2019-10-15 10:36:48"}|{"code":200,"header":"Success","message":"Success add data","theme":"alert-styled-left bg-success"}|::1
+
+191015103840|dewi|http://localhost/ticket_ecopark_admin/login/login|login|{"id_seq":"15","user_group_id":"2","username":"dewi","password":"$2a$12$p7F1mELdGUvJlihusf8YROtGSx6ikp2tr3aJBKFlgpKlF2kA7gl.q","email":"dewi@gmail.com","status":"1","user_code":"X0L4FQI9TH","group_name":"Perum","group_code":"PERUM","first_name":"dewi","last_name":"11"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/ticket_ecopark_admin\/profile"}|::1
+
+191015105217|dewi|http://localhost/ticket_ecopark_admin/login/login|login|{"id_seq":"15","user_group_id":"2","username":"dewi","password":"$2a$12$p7F1mELdGUvJlihusf8YROtGSx6ikp2tr3aJBKFlgpKlF2kA7gl.q","email":"dewi@gmail.com","status":"1","user_code":"X0L4FQI9TH","group_name":"Perum","group_code":"PERUM","first_name":"dewi","last_name":"11"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/ticket_ecopark_admin\/profile"}|::1
+
+191015133624|superadmin|http://localhost/ticket_ecopark_admin/login/login|login|{"id_seq":"1","user_group_id":"1","username":"superadmin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin1313@gmil.com","status":"1","user_code":"ADMINISTRATOR","group_name":"Administrator","group_code":"ADMINISTRATOR","first_name":"alimin","last_name":"1"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/ticket_ecopark_admin\/dashboard"}|::1
+
+191015134121|alimin|http://localhost/ticket_ecopark_admin/login/login|login|{"id_seq":"14","user_group_id":"3","username":"Alimin","password":"$2a$12$9dokEYSQ4bSvtyDzy38.D.7O2b9RvZdzgFKnpRMXkd132H0eWv3oa","email":"alimin.nutech@gmail.com","status":"1","user_code":"HC4BFPLAB5","group_name":"Operator","group_code":"OPERATOR","first_name":"alimin","last_name":"-"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/ticket_ecopark_admin\/profile"}|::1
+
+191015134231|alimin -|http://localhost/ticket_ecopark_admin/ticket_master/delete|DELETE|{"status":-5,"updated_by":"Alimin","updated_on":"2019-10-15 13:42:31"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191015134237|alimin -|http://localhost/ticket_ecopark_admin/ticket_master/delete|DELETE|{"status":-5,"updated_by":"Alimin","updated_on":"2019-10-15 13:42:37"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191015140406|dewi|http://localhost/ticket_ecopark_admin/login/login|login|{"id_seq":"15","user_group_id":"2","username":"dewi","password":"$2a$12$p7F1mELdGUvJlihusf8YROtGSx6ikp2tr3aJBKFlgpKlF2kA7gl.q","email":"dewi@gmail.com","status":"1","user_code":"X0L4FQI9TH","group_name":"Perum","group_code":"PERUM","first_name":"dewi","last_name":"11"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/ticket_ecopark_admin\/profile"}|::1
+
+191015143852|dewi 11|http://localhost/ticket_ecopark_admin/master_fare/action_add|ADD|{"operator_code":"P2O1TSK9U4","fare_code":"KIA6BJHD9","price":"5000","fare_name":"tarif dasar tiket","description":"<p>testing<\/p>","created_by":"dewi 11","created_on":"2019-10-15 14:38:50"}|{"code":200,"header":"Success","message":"Success add data","theme":"alert-styled-left bg-success"}|::1
+
+191015144540|dewi 11|http://localhost/ticket_ecopark_admin/master_fare/action_add|ADD|{"operator_code":"P2GKXAT60P","fare_code":"ZFNA3X9Y2","price":"4000","fare_name":"tarif anak","description":"<p>qwerqwer<\/p>","created_by":"dewi 11","created_on":"2019-10-15 14:45:40"}|{"code":200,"header":"Success","message":"Success add data","theme":"alert-styled-left bg-success"}|::1
+
+191015144549|dewi 11|http://localhost/ticket_ecopark_admin/ticket_master/delete|DELETE|{"status":-5,"updated_by":"dewi","updated_on":"2019-10-15 14:45:48"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191015152259|dewi 11|http://localhost/ticket_ecopark_admin/ticket_category/action_add|ADD|{"operator_code":"P2O1TSK9U4","category_type_code":"MULTITICKET","category_code":"JI4Z9ZWVDH","category_name":"test","description":"afwe","created_by":"dewi 11","created_on":"2019-10-15 15:22:59"}|{"code":200,"header":"Success","message":"Success add data","theme":"alert-styled-left bg-success"}|::1
+
+191015152419|dewi 11|http://localhost/ticket_ecopark_admin/ticket_category/action_add|ADD|{"operator_code":"P2O1TSK9U4","category_type_code":"MULTITICKET","category_code":"GIQJNH5QFW","category_name":"category cc","description":"test","created_by":"dewi 11","created_on":"2019-10-15 15:24:19"}|{"code":200,"header":"Success","message":"Success add data","theme":"alert-styled-left bg-success"}|::1
+
+191015152424|dewi 11|http://localhost/ticket_ecopark_admin/po/bus/delete|DELETE|{"status":-5,"updated_by":"dewi","updated_on":"2019-10-15 15:24:24"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191015152428|dewi 11|http://localhost/ticket_ecopark_admin/po/bus/delete|DELETE|{"status":-5,"updated_by":"dewi","updated_on":"2019-10-15 15:24:27"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191015152750|superadmin|http://localhost/ticket_ecopark_admin/login/login|login|{"id_seq":"1","user_group_id":"1","username":"superadmin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin1313@gmil.com","status":"1","user_code":"ADMINISTRATOR","group_name":"Administrator","group_code":"ADMINISTRATOR","first_name":"alimin","last_name":"1"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/ticket_ecopark_admin\/dashboard"}|::1
+
+191015160951|alimin 1|http://localhost/ticket_ecopark_admin/ticket_category_type/action_add|ADD|{"category_type_code":"test kode","category_type_name":"adsfadsf","description":"adsfasdf","created_by":"alimin 1","created_on":"2019-10-15 16:09:51"}|{"code":101,"header":"Error","message":"Kode Sudah Ada, Harap Gunakan Category Type Code yang lain","theme":"alert-styled-left bg-danger"}|::1
+
+191015164506|alimin 1|http://localhost/ticket_ecopark_admin/master_promo_location/action_add|ADD|{"promo_location_code":"abc","promo_location_name":"qerqwe","description":"<p>rqwerqw<\/p>","created_by":"alimin 1","created_on":"2019-10-15 16:45:06"}|{"code":200,"header":"Success","message":"Success add data","theme":"alert-styled-left bg-success"}|::1
+
+191015164518|alimin 1|http://localhost/ticket_ecopark_admin/master_promo_location/delete|DELETE|{"status":-5,"updated_by":"superadmin","updated_on":"2019-10-15 16:45:18"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191015165529|alimin 1|http://localhost/ticket_ecopark_admin/master_promo_location/action_add|ADD|{"promo_location_code":"BOOKING_CHANNEL","promo_location_name":"sdasg","description":"<p>gdag<\/p>","created_by":"alimin 1","created_on":"2019-10-15 16:55:29"}|{"code":101,"header":"Error","message":"Promo Location Kode yang anda input sudah digunakan! harap ganti yang lain","theme":"alert-styled-left bg-danger"}|::1
+
+191015165535|alimin 1|http://localhost/ticket_ecopark_admin/master_promo_location/action_add|ADD|{"promo_location_code":"BOOKING_CHANNEL","promo_location_name":"sdasg","description":"<p>gdag<\/p>","created_by":"alimin 1","created_on":"2019-10-15 16:55:35"}|{"code":101,"header":"Error","message":"Promo Location Kode yang anda input sudah digunakan! harap ganti yang lain","theme":"alert-styled-left bg-danger"}|::1
+
+191015165606|alimin 1|http://localhost/ticket_ecopark_admin/master_promo_location/action_add|ADD|{"promo_location_code":"BOOKING_CHANNEL","promo_location_name":"sdasg","description":"<p>gdag<\/p>","created_by":"alimin 1","created_on":"2019-10-15 16:56:06"}|{"code":101,"header":"Error","message":"Promo Location Kode yang anda input sudah digunakan! harap ganti yang lain","theme":"alert-styled-left bg-danger"}|::1
+
+191015165616|alimin 1|http://localhost/ticket_ecopark_admin/master_promo_location/action_add|ADD|{"promo_location_code":"BOOKING_CHANNELxxx","promo_location_name":"sdasg","description":"<p>gdag<\/p>","created_by":"alimin 1","created_on":"2019-10-15 16:56:16"}|{"code":200,"header":"Success","message":"Success add data","theme":"alert-styled-left bg-success"}|::1
+
+191015165619|alimin 1|http://localhost/ticket_ecopark_admin/master_promo_location/delete|DELETE|{"status":-5,"updated_by":"superadmin","updated_on":"2019-10-15 16:56:19"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191015165633|alimin 1|http://localhost/ticket_ecopark_admin/master_promo_location/action_add|ADD|{"promo_location_code":"sgsdfg","promo_location_name":"sdfgsd","description":"<p>gsdfgsdf<\/p>","created_by":"alimin 1","created_on":"2019-10-15 16:56:33"}|{"code":200,"header":"Success","message":"Success add data","theme":"alert-styled-left bg-success"}|::1
+
+191015165823|alimin 1|http://localhost/ticket_ecopark_admin/master_promo_location/action_edit|UPDATE|{"promo_location_code":"sgsdfg","promo_location_name":"sdfgsd","description":"<p>gsdfgsdf<\/p>","updated_by":"alimin 1","updated_on":"2019-10-15 16:58:23"}|{"code":200,"header":"Success","message":"Success edit data","theme":"alert-styled-left bg-success"}|::1
+
+191015165827|alimin 1|http://localhost/ticket_ecopark_admin/master_promo_location/delete|DELETE|{"status":-5,"updated_by":"superadmin","updated_on":"2019-10-15 16:58:27"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191015170005|alimin 1|http://localhost/ticket_ecopark_admin/master_promo_location/action_add|ADD|{"promo_location_code":"BOOKING_CHANNEL","promo_location_name":"ASFASD","description":"<p>ASDFAS<\/p>","created_by":"alimin 1","created_on":"2019-10-15 17:00:05"}|{"code":101,"header":"Error","message":"Promo Location Kode yang anda input sudah digunakan! harap ganti yang lain","theme":"alert-styled-left bg-danger"}|::1
+
+191015170216|alimin 1|http://localhost/ticket_ecopark_admin/master_promo_location/action_add|ADD|{"promo_location_code":"BOOKING_CHANNEL","promo_location_name":"FASDF","description":"<p>SDAFD<\/p>","created_by":"alimin 1","created_on":"2019-10-15 17:02:16"}|{"code":101,"header":"Error","message":"Promo Location Kode yang anda input sudah digunakan! harap ganti yang lain","theme":"alert-styled-left bg-danger"}|::1
+
+191015170224|alimin 1|http://localhost/ticket_ecopark_admin/master_promo_location/action_add|ADD|{"promo_location_code":"BOOKING_CHANNELDSFSD","promo_location_name":"FASDF","description":"<p>SDAFD<\/p>","created_by":"alimin 1","created_on":"2019-10-15 17:02:24"}|{"code":200,"header":"Success","message":"Success add data","theme":"alert-styled-left bg-success"}|::1
+
+191015170243|alimin 1|http://localhost/ticket_ecopark_admin/ticket_type/action_add|ADD|{"ticket_type_code":"zcZX","ticket_type_name":"CZxczx","description":"ZcXZ","created_by":"alimin 1","created_on":"2019-10-15 17:02:43"}|{"code":200,"header":"Success","message":"Success add data","theme":"alert-styled-left bg-success"}|::1
+
+191015170459|alimin 1|http://localhost/ticket_ecopark_admin/master_promo_location/delete|DELETE|{"status":-5,"updated_by":"superadmin","updated_on":"2019-10-15 17:04:59"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191015170613|alimin 1|http://localhost/ticket_ecopark_admin/ticket_type/delete|DELETE|{"status":-5,"updated_by":"superadmin","updated_on":"2019-10-15 17:06:13"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191015171146|alimin 1|http://localhost/ticket_ecopark_admin/ticket_type/action_add|ADD|{"ticket_type_code":"QUOTA","ticket_type_name":"dfgs","description":"gsdfg","created_by":"alimin 1","created_on":"2019-10-15 17:11:46"}|{"code":101,"header":"Error","message":"Type Code yang anda input sudah digunakan! harap ganti yang lain","theme":"alert-styled-left bg-danger"}|::1
+
+191015171227|alimin 1|http://localhost/ticket_ecopark_admin/ticket_type/action_add|ADD|{"ticket_type_code":"QUOTAsgsdf","ticket_type_name":"dfgs","description":"gsdfg","created_by":"alimin 1","created_on":"2019-10-15 17:12:26"}|{"code":200,"header":"Success","message":"Success add data","theme":"alert-styled-left bg-success"}|::1
+
+191015171230|alimin 1|http://localhost/ticket_ecopark_admin/ticket_type/delete|DELETE|{"status":-5,"updated_by":"superadmin","updated_on":"2019-10-15 17:12:30"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+

@@ -1,0 +1,32 @@
+191104060404|superadmin|http://localhost/ticket_ecopark_admin/login/login|login|{"id_seq":"1","user_group_id":"1","username":"superadmin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin1313@gmil.com","status":"1","user_code":"ADMINISTRATOR","group_name":"Administrator","group_code":"ADMINISTRATOR","first_name":"alimin","last_name":"1"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/ticket_ecopark_admin\/dashboard"}|::1
+
+191104112611|alimin 1|http://localhost/ticket_ecopark_admin/device_terminal/delete|DELETE|{"status":-5,"updated_by":"superadmin","updated_on":"2019-11-04 11:26:11"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191104112617|alimin 1|http://localhost/ticket_ecopark_admin/device_terminal/delete|DELETE|{"status":-5,"updated_by":"superadmin","updated_on":"2019-11-04 11:26:17"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191104112622|alimin 1|http://localhost/ticket_ecopark_admin/device_terminal/delete|DELETE|{"status":-5,"updated_by":"superadmin","updated_on":"2019-11-04 11:26:22"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191104113354|alimin 1|http://localhost/ticket_ecopark_admin/operator/action_update|UPDATE|{"status":-5,"updated_by":"superadmin","updated_on":"2019-11-04 11:33:54"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191104113934|alimin 1|http://localhost/ticket_ecopark_admin/ticket_master/delete|DELETE|{"status":-5,"updated_by":"superadmin","updated_on":"2019-11-04 11:39:33"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191104143533|alimin|http://localhost/ticket_ecopark_admin/login/login|login|{"id_seq":"14","user_group_id":"3","username":"Alimin","password":"$2a$12$9dokEYSQ4bSvtyDzy38.D.7O2b9RvZdzgFKnpRMXkd132H0eWv3oa","email":"alimin.nutech@gmail.com","status":"1","user_code":"HC4BFPLAB5","group_name":"Operator","group_code":"OPERATOR","first_name":"alimin","last_name":"-"}|{"code":101,"header":"Error!","message":"Wrong password","theme":"alert-styled-left bg-danger"}|::1
+
+191104143658|Alimin|http://localhost/ticket_ecopark_admin/login/login|login|{"id_seq":"14","user_group_id":"3","username":"Alimin","password":"$2a$12$9dokEYSQ4bSvtyDzy38.D.7O2b9RvZdzgFKnpRMXkd132H0eWv3oa","email":"alimin.nutech@gmail.com","status":"1","user_code":"HC4BFPLAB5","group_name":"Operator","group_code":"OPERATOR","first_name":"alimin","last_name":"-"}|{"code":101,"header":"Error!","message":"Wrong password","theme":"alert-styled-left bg-danger"}|::1
+
+191104143716|alimin 1|http://localhost/ticket_ecopark_admin/configuration/user/update_password|RESET PASSWORD|{"password":"$2a$12$YdfCpvECMkAjsLNU5yPswObhZmnLM2TJXida8wxpGiKwWQKzh2wJG","updated_by":"superadmin","updated_on":"2019-11-04 14:37:16"}|{"code":200,"header":"Success","message":"Success reset password","theme":"alert-styled-left bg-success"}|::1
+
+191104143728|alimin 1|http://localhost/ticket_ecopark_admin/configuration/user/update_password|RESET PASSWORD|{"password":"$2a$12$mu4vTSvd\/1JjfipCRVW5\/upTRsfhH2aJxwkeF0q7t3zIugX\/ID.lm","updated_by":"superadmin","updated_on":"2019-11-04 14:37:28"}|{"code":200,"header":"Success","message":"Success reset password","theme":"alert-styled-left bg-success"}|::1
+
+191104143737|Alimin|http://localhost/ticket_ecopark_admin/login/login|login|{"id_seq":"14","user_group_id":"3","username":"Alimin","password":"$2a$12$mu4vTSvd\/1JjfipCRVW5\/upTRsfhH2aJxwkeF0q7t3zIugX\/ID.lm","email":"alimin.nutech@gmail.com","status":"1","user_code":"HC4BFPLAB5","group_name":"Operator","group_code":"OPERATOR","first_name":"alimin","last_name":"-"}|{"code":101,"header":"Error!","message":"Wrong password","theme":"alert-styled-left bg-danger"}|::1
+
+191104143848|alimi2|http://localhost/ticket_ecopark_admin/login/login|login|false|{"code":101,"header":"Error!","message":"User can't found","theme":"alert-styled-left bg-danger"}|::1
+
+191104143853|alimin2|http://localhost/ticket_ecopark_admin/login/login|login|{"id_seq":"27","user_group_id":"3","username":"Alimin2","password":"$2a$12$PzN0WQLUEw9lSbiKm2Jdse6FOCZe3e7BKn18kqad9cCmE\/UlaWkFG","email":"alimin1313@gmail.com","status":"1","user_code":"VUH8CVE73T","group_name":"Operator","group_code":"OPERATOR","first_name":"ali","last_name":"min"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/ticket_ecopark_admin\/dashboard"}|::1
+
+191104171252|ali min|http://localhost/ticket_ecopark_admin/master_fare/action_edit|UPDATE|{"fare_name":"tarif dasar pengunjung dewasa","description":"<p>tarif dasar pengunjung<\/p>","updated_by":"ali min","updated_on":"2019-11-04 17:12:52"}|{"code":200,"header":"Success","message":"Success edit data","theme":"alert-styled-left bg-success"}|::1
+
+191104171611|admin_test.kp|http://localhost/ticket_ecopark_admin/login/login|login|{"id_seq":"21","user_group_id":"3","username":"admin_test.kp","password":"$2a$12$3yHerU7ViPzMk3KQc.WGpOEvAqlidlfPKJWllilmRinbLtaKIBRCC","email":"kawahputih@admin.test","status":"1","user_code":"1AZHWKBFNE","group_name":"Operator","group_code":"OPERATOR","first_name":"test user kawah putih","last_name":"123"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/ticket_ecopark_admin\/dashboard"}|::1
+
+191104171846|test user kawah putih 123|http://localhost/ticket_ecopark_admin/master_fare/action_edit|UPDATE|{"fare_name":"Example Fare Test Name","description":"<p>tarif tiket WNA<\/p>","updated_by":"test user kawah putih 123","updated_on":"2019-11-04 17:18:46"}|{"code":200,"header":"Success","message":"Success edit data","theme":"alert-styled-left bg-success"}|::1
+

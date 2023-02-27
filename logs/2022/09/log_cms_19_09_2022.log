@@ -1,0 +1,12 @@
+220919132018|Ilhamr|http://localhost/amortrans-cms/login/login|login|false|{"code":101,"header":"Error!","message":"User can't found","theme":"alert-styled-left bg-danger"}|127.0.0.1
+
+220919132108|alimin|http://localhost/amortrans-cms/login/login|login|{"id_seq":"2","user_group_id":"1","username":"alimin","password":"$2a$12$pRcIOnuHM91.qwBuXB7uOezzq5N3WGjCwrw9ee9kHFcpUOLhf2e5u","email":"alimin1313@gmail.com","status":"1","user_code":"3LVXZD7VLT","group_name":"superadmin","group_code":null,"first_name":"ali","last_name":"min"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/amortrans-cms\/dashboard"}|127.0.0.1
+
+220919133911|alimin|http://localhost/codebase-erp/login/login|login|{"id_seq":"2","user_group_id":"1","username":"alimin","password":"$2a$12$pRcIOnuHM91.qwBuXB7uOezzq5N3WGjCwrw9ee9kHFcpUOLhf2e5u","email":"alimin1313@gmail.com","status":"1","user_code":"3LVXZD7VLT","group_name":"superadmin","group_code":null,"first_name":"ali","last_name":"min"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/codebase-erp\/dashboard"}|127.0.0.1
+
+220919142653|Ilhamr|http://localhost/codebase-erp/login/login|login|false|{"code":101,"header":"Error!","message":"User can't found","theme":"alert-styled-left bg-danger"}|127.0.0.1
+
+220919142657|Ilhamr|http://localhost/codebase-erp/login/login|login|false|{"code":101,"header":"Error!","message":"User can't found","theme":"alert-styled-left bg-danger"}|127.0.0.1
+
+220919142703|alimin|http://localhost/codebase-erp/login/login|login|{"id_seq":"2","user_group_id":"1","username":"alimin","password":"$2a$12$pRcIOnuHM91.qwBuXB7uOezzq5N3WGjCwrw9ee9kHFcpUOLhf2e5u","email":"alimin1313@gmail.com","status":"1","user_code":"3LVXZD7VLT","group_name":"superadmin","group_code":null,"first_name":"ali","last_name":"min"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/codebase-erp\/dashboard"}|127.0.0.1
+

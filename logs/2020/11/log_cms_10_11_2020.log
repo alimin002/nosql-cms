@@ -1,0 +1,4 @@
+201110093343|alimin|http://localhost/amortrans-cms/login/login|login|{"id_seq":"3","user_group_id":"10","username":"alimin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin1313@gmail.com","status":"1","user_code":"NG8GMTA5DV","group_name":"developer","group_code":"GP-2","first_name":"Ali","last_name":"min"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/amortrans-cms\/dashboard"}|::1
+
+201110141036|alimin|http://localhost/amortrans-cms/login/login|login|{"id_seq":"3","user_group_id":"10","username":"alimin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin1313@gmail.com","status":"1","user_code":"NG8GMTA5DV","group_name":"developer","group_code":"GP-2","first_name":"Ali","last_name":"min"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/amortrans-cms\/dashboard"}|::1
+

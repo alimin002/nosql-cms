@@ -1,0 +1,24 @@
+191114102116|superadmin|http://localhost/ticket_ecopark_admin/login/login|login|{"id_seq":"1","user_group_id":"1","username":"superadmin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin1313@gmil.com","status":"1","user_code":"ADMINISTRATOR","group_name":"Administrator","group_code":"ADMINISTRATOR","first_name":"alimin","last_name":"1"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/ticket_ecopark_admin\/dashboard"}|127.0.0.1
+
+191114103053|supaeradmin|http://localhost/ticket_ecopark_admin/login/login|login|false|{"code":101,"header":"Error!","message":"User can't found","theme":"alert-styled-left bg-danger"}|::1
+
+191114103104|superadmin|http://localhost/ticket_ecopark_admin/login/login|login|{"id_seq":"1","user_group_id":"1","username":"superadmin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin1313@gmil.com","status":"1","user_code":"ADMINISTRATOR","group_name":"Administrator","group_code":"ADMINISTRATOR","first_name":"alimin","last_name":"1"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/ticket_ecopark_admin\/dashboard"}|::1
+
+191114103450|alimin 1|http://localhost/ticket_ecopark_admin/custom_param/delete|DELETE|{"status":-5,"updated_by":"superadmin","updated_on":"2019-11-14 10:34:50"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191114103500|alimin 1|http://localhost/ticket_ecopark_admin/custom_param/delete|DELETE|{"status":-5,"updated_by":"superadmin","updated_on":"2019-11-14 10:35:00"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191114135207|superadmin|http://localhost/ticket_ecopark_admin/login/login|login|{"id_seq":"1","user_group_id":"1","username":"superadmin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin1313@gmil.com","status":"1","user_code":"ADMINISTRATOR","group_name":"Administrator","group_code":"ADMINISTRATOR","first_name":"alimin","last_name":"1"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/ticket_ecopark_admin\/dashboard"}|::1
+
+191114144203|alimin 1|http://localhost/ticket_ecopark_admin/master_merchant/action_add|ADD|{"merchant_code":"B2BL5LYMU4","merchant_name":"merchant 4","description":"merchant444","created_by":"alimin 1","created_on":"2019-11-14 14:42:03"}|{"code":200,"header":"Success","message":"Success add data","theme":"alert-styled-left bg-success"}|::1
+
+191114173204|superadmin|http://localhost/ticket_ecopark_admin/login/login|login|{"id_seq":"1","user_group_id":"1","username":"superadmin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin1313@gmil.com","status":"1","user_code":"ADMINISTRATOR","group_name":"Administrator","group_code":"ADMINISTRATOR","first_name":"alimin","last_name":"1"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/ticket_ecopark_admin\/dashboard"}|::1
+
+191114173421|alimin 1|http://localhost/ticket_ecopark_admin/master_promo/delete|DELETE|{"status":-5,"updated_by":"superadmin","updated_on":"2019-11-14 17:34:21"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191114181738|superadmin|http://localhost/ticket_ecopark_admin/login/login|login|{"id_seq":"1","user_group_id":"1","username":"superadmin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin1313@gmil.com","status":"1","user_code":"ADMINISTRATOR","group_name":"Administrator","group_code":"ADMINISTRATOR","first_name":"alimin","last_name":"1"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/ticket_ecopark_admin\/dashboard"}|::1
+
+191114181825|alimin 1|http://localhost/ticket_ecopark_admin/master_fare_component/action_add|ADD|{"fare_component_code":"3QP3US29V0","fare_component_name":"","operator_code":null,"description":"","created_by":"alimin 1","created_on":"2019-11-14 18:18:25"}|{"code":101,"header":"Error","message":"Please input the field Bellow!<br><p>The Fare Component Name field is required.<\/p>\n","theme":"alert-styled-left bg-danger"}|::1
+
+191114182529|alimin 1|http://localhost/ticket_ecopark_admin/master_fare_component/action_add|ADD|{"fare_component_code":"CR5MB1AIAK","fare_component_name":"","operator_code":null,"description":"","created_by":"alimin 1","created_on":"2019-11-14 18:25:29"}|{"code":101,"header":"Error","message":"Please input the field Bellow!<br><p>The Fare Component Name field is required.<\/p>\n","theme":"alert-styled-left bg-danger"}|::1
+

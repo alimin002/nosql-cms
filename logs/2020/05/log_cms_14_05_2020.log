@@ -1,0 +1,2 @@
+200514232634|alimin|http://localhost/system_admin/login/login|login|{"id_seq":"3","user_group_id":"1","username":"alimin","password":"$2a$12$pRcIOnuHM91.qwBuXB7uOezzq5N3WGjCwrw9ee9kHFcpUOLhf2e5u","email":"alimin1313@gmail.com","status":"1","user_code":"3LVXZD7VLT","group_name":"superadmin","group_code":null,"first_name":"ali","last_name":"min"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/system_admin\/dashboard"}|::1
+

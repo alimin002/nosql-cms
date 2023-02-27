@@ -1,0 +1,10 @@
+201105105300|superadmin|http://localhost/amortrans-cms/login/login|login|{"id_seq":"1","user_group_id":"1","username":"superadmin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin1313@gmail.com","status":"1","user_code":null,"group_name":"superadmin","group_code":null,"first_name":"alimin","last_name":"alimin"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/amortrans-cms\/dashboard"}|::1
+
+201105114105|superadmin|http://192.168.43.7/amortrans-cms/login/login|login|{"id_seq":"1","user_group_id":"1","username":"superadmin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin1313@gmail.com","status":"1","user_code":null,"group_name":"superadmin","group_code":null,"first_name":"alimin","last_name":"alimin"}|{"code":0,"message":"Success","data":"http:\/\/192.168.43.7\/amortrans-cms\/dashboard"}|192.168.43.1
+
+201105120957|superadmin|http://192.168.43.7/amortrans-cms/info_wisata/delete|DELETE|{"status":-5,"updated_by":"superadmin","updated_on":"2020-11-05 12:09:57"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|192.168.43.1
+
+201105153621|superadmin|http://localhost/amortrans-cms/login/login|login|{"id_seq":"1","user_group_id":"1","username":"superadmin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin1313@gmail.com","status":"1","user_code":null,"group_name":"superadmin","group_code":null,"first_name":"alimin","last_name":"alimin"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/amortrans-cms\/dashboard"}|::1
+
+201105154348|superadmin|http://192.168.43.7/amortrans-cms/login/login|login|{"id_seq":"1","user_group_id":"1","username":"superadmin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin1313@gmail.com","status":"1","user_code":null,"group_name":"superadmin","group_code":null,"first_name":"alimin","last_name":"alimin"}|{"code":0,"message":"Success","data":"http:\/\/192.168.43.7\/amortrans-cms\/dashboard"}|192.168.43.1
+

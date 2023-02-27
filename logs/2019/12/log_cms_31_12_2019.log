@@ -1,0 +1,24 @@
+191231104212|alimin1313@gmail.com|http://localhost/core_system/login/login|login|false|{"code":101,"header":"Error!","message":"User can't found","theme":"alert-styled-left bg-danger"}|::1
+
+191231104231|superadmin|http://localhost/core_system/login/login|login|{"id_seq":"1","user_group_id":"1","username":"superadmin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin.nutech@gmail.com","status":"1","user_code":null,"group_name":"superadmin","group_code":null,"first_name":"Ali","last_name":"min"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/core_system\/dashboard"}|::1
+
+191231104253|superadmin|http://localhost/core_system/login/login|login|{"id_seq":"1","user_group_id":"1","username":"superadmin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin.nutech@gmail.com","status":"1","user_code":null,"group_name":"superadmin","group_code":null,"first_name":"Ali","last_name":"min"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/core_system\/dashboard"}|::1
+
+191231145504|Ali min|http://localhost/core_system/configuration/user/update_password|RESET PASSWORD|{"password":"$2a$12$uXHzgAwtvgZLL3ozkDhz0.Spws6hINSXUryz.EnuR90\/JlWSJF8pO","updated_by":"admin2","updated_on":"2019-12-31 14:55:04"}|{"code":200,"header":"Success","message":"Success reset password","theme":"alert-styled-left bg-success"}|::1
+
+191231165248|Ali min|http://localhost/core_system/configuration/user_group/action_add|ADD|{"group_name":"Supervisor","group_code":"GROUP2","status":1,"created_by":"1"}|{"code":200,"header":"Success","message":"Success add data","theme":"alert-styled-left bg-success"}|::1
+
+191231165329|Ali min|http://localhost/core_system/configuration/user_group/action_add|ADD|{"group_name":"manajer","group_code":"GROUP3","status":1,"created_by":"1"}|{"code":200,"header":"Success","message":"Success add data","theme":"alert-styled-left bg-success"}|::1
+
+191231165503|Ali min|http://localhost/core_system/configuration/user_group/action_add|ADD|{"group_name":"karyawan","group_code":"GROUP5","status":1,"created_by":"1"}|{"code":200,"header":"Success","message":"Success add data","theme":"alert-styled-left bg-success"}|::1
+
+191231170013|Ali min|http://localhost/core_system/configuration/user_group/action_add|ADD|{"group_name":"karyawan2","group_code":"GROUP6","status":1,"created_by":"1"}|{"code":200,"header":"Success","message":"Success add data","theme":"alert-styled-left bg-success"}|::1
+
+191231170338|Ali min|http://localhost/core_system/configuration/user_group/update|UPDATE|{"group_name":"karyawan21","status":1,"updated_by":"1","updated_on":"2019-12-31 17:03:38"}|{"code":200,"header":"Success","message":"Success update data","theme":"alert-styled-left bg-success"}|::1
+
+191231170711|Ali min|http://localhost/core_system/configuration/user_group/update|UPDATE|{"group_name":"karyawan212","status":1,"updated_by":"1","updated_on":"2019-12-31 17:07:11"}|{"code":200,"header":"Success","message":"Success update data","theme":"alert-styled-left bg-success"}|::1
+
+191231170726|Ali min|http://localhost/core_system/configuration/user_group/delete|DELETE|{"updated_by":"1","updated_on":"2019-12-31 17:07:26","status":"-5"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+
+191231170737|Ali min|http://localhost/core_system/configuration/user_group/delete|DELETE|{"updated_by":"1","updated_on":"2019-12-31 17:07:37","status":"-5"}|{"code":200,"header":"Success","message":"Success delete data","theme":"alert-styled-left bg-success"}|::1
+

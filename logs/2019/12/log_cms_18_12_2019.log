@@ -1,0 +1,6 @@
+191218100619|admin|http://localhost/system_core_template/login/login|login|false|{"code":101,"header":"Error!","message":"User can't found","theme":"alert-styled-left bg-danger"}|::1
+
+191218100629|superadmin|http://localhost/system_core_template/login/login|login|{"id_seq":"1","user_group_id":"1","username":"superadmin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin.nutech@gmail.com","status":"1","user_code":null,"group_name":"superadmin","group_code":null,"first_name":"Ali","last_name":"min"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/system_core_template\/dashboard"}|::1
+
+191218134642|superadmin|http://localhost/system_core_template/login/login|login|{"id_seq":"1","user_group_id":"1","username":"superadmin","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"alimin.nutech@gmail.com","status":"1","user_code":null,"group_name":"superadmin","group_code":null,"first_name":"Ali","last_name":"min"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/system_core_template\/dashboard"}|::1
+

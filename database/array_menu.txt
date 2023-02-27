@@ -1,0 +1,41 @@
+$menu=[
+						[
+							(object)
+							[
+								'id_seq'	=>1,
+								'menu_id'	=>1,
+								'parent_id'	=>1,
+								'name'		=>"Dashboard", 
+								'slug'		=>"", 
+								'icon'		=>"fa fa-folder", 
+								'menu_order'=>"1",
+								'action'	=>[]
+													
+							],(object)
+							[
+								'id_seq'	=>2,
+								'menu_id'	=>2,
+								'parent_id'	=>1,
+								'name'		=>"User", 
+								'slug'		=>"users", 
+								'icon'		=>"", 
+								'menu_order'=>"2",
+								'action'	=>[]
+													
+							]
+						],
+						[
+							(object)
+							[
+								'id_seq'	=>3,
+								'menu_id'	=>3,
+								'parent_id'	=>1,
+								'name'		=>"Other Menu", 
+								'slug'		=>"", 
+								'icon'		=>"fa fa-folder", 
+								'menu_order'=>"4",
+								'action'	=>[]
+													
+							]
+						]
+				 ];
